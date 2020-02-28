@@ -23,6 +23,7 @@ public class Client extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception{
+        //client gui
         window = primaryStage;
         window.setTitle("GAMarket");
 
@@ -43,13 +44,12 @@ public class Client extends Application {
 
         Button chat = new Button("Chat"); //possibly friends list
 
-        chat.getStyleClass().add("button-blue");
         GridPane.setConstraints(chat, 3, 0);
 
         grid.getChildren().addAll(store, collection, userProfile, chat);
 
         Scene scene = new Scene(grid, 300, 200);
-        scene.getStylesheets().add("client.css");
+        scene.getStylesheets().add("app/clientGUI.css");
         window.setScene(scene);
         window.show();
 
