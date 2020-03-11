@@ -5,7 +5,7 @@ Relevent links
   
 Requirements Doc:  
 https://docs.google.com/document/d/1VhWTqSm-Rp_hsDGhm3sXjKCsnDQktffumZrs4zDs8sU/edit?usp=sharing  
-Gant Chart:
+Gant Chart: 
 https://docs.google.com/spreadsheets/d/12ngA22KH16EUw_avsULOUAIRWYY4jsVfpC8fGfEcyWw/edit?usp=sharing  
 UML:  
 https://drive.google.com/file/d/1KCLaklUPjY48VQb2peaFAZNPh7E8VHe9/view?usp=sharing  
