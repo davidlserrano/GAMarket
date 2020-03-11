@@ -4,7 +4,7 @@ The goal of GAMarket will be to have an all-encompassing video game distribution
 Relevent links 
   
 Requirements Doc:  
-https://docs.google.com/document/d/1VhWTqSm-Rp_hsDGhm3sXjKCsnDQktffumZrs4zDs8sU/edit?usp=sharing
+https://docs.google.com/document/d/1VhWTqSm-Rp_hsDGhm3sXjKCsnDQktffumZrs4zDs8sU/edit?usp=sharing  
 Gant Chart:
 https://docs.google.com/spreadsheets/d/12ngA22KH16EUw_avsULOUAIRWYY4jsVfpC8fGfEcyWw/edit?usp=sharing  
 UML:  
